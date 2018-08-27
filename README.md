@@ -9,7 +9,7 @@ This application consists of:
 
 The entire project is written with the MCV and Observer patterns. 
 There are a Unit-Testing class too. There are many supports jar:
-  1 that manages the calendar (jcalendar)
-  2 one that manages the graphics. (jfreechart, jcommon)
-  3 ojdbc7
+  - that manages the calendar (jcalendar)
+  - one that manages the graphics. (jfreechart, jcommon)
+  - ojdbc7
   
