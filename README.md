@@ -1,7 +1,7 @@
 # JavaSwingDesktopApp
 
-This applications was designed to an Administrator
-This application consists of:
+This application was designed for an Admin-usage.
+It consists of:
   - a sign-in and sign-up section
   - an event-view section based on how many events are into DB (Administrator can manage events: create,modify and delete)
     - a 3 type of chart-view section based on the input selected.
