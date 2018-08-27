@@ -7,9 +7,9 @@ This application consists of:
     - a 3 type of chart-view section based on the input selected.
   - a client-view section based on how many clients are into DB.
 
-The entire project is written with the MCV and Observer patterns. 
-There are a Unit-Testing class too. There are many supports jar:
-  - that manages the calendar (jcalendar)
-  - one that manages the graphics. (jfreechart, jcommon)
+The entire project is written with the MCV and Observer patterns. There is an automation Unit-Testing class too (jUnit).\ 
+The supports jar used into that project are:
+  - jcalendar
+  - jfreechart, jcommon
   - ojdbc7
   
